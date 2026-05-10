@@ -1,0 +1,309 @@
+﻿League,WF Team,TL Team,TL Slug,Sim Score
+Premier League,Manchester City,Manchester City,manchester_city1,1
+Premier League,Crystal Palace,Crystal Palace,crystal_palace1,1
+Premier League,Burnley FC,Burnley,burnley1,0.9
+Premier League,Nottingham Forest,Nottingham Forest,nottingham_f,1
+Premier League,West Ham United,West Ham United,west_ham1,1
+Premier League,Tottenham Hotspur,Tottenham Hotspur,tottenham1,1
+Premier League,Aston Villa,Aston Villa,aston_villa1,1
+Premier League,Everton FC,Everton,everton1,0.9
+Premier League,Newcastle United,Newcastle United,newcastle1,1
+Premier League,Arsenal FC,Arsenal,arsenal1,0.9
+Premier League,Leeds United,Leeds United,leeds1,1
+Premier League,Liverpool FC,Liverpool,liverpool1,0.917
+Bundesliga,Hamburger SV,Hamburger SV,hamburger_sv1,1
+Bundesliga,1. FC Köln,FC Koeln,fc_koln1,0.7
+Bundesliga,1. FSV Mainz 05,Mainz 05,mainz_051,0.9
+Bundesliga,Werder Bremen,Werder Bremen,werder_bremen_1,1
+Bundesliga,1. FC Heidenheim 1846,FC Heidenheim,fc_heidenheim1,0.9
+Bundesliga,SC Freiburg,Freiburg,freiburg1,0.909
+Bundesliga,Eintracht Frankfurt,Eintracht Frankfurt,eintracht_frankfurt1,1
+Bundesliga,FC St. Pauli,St. Pauli,stpauli,0.9
+Bundesliga,1. FC Union Berlin,Union Berlin,union_berlin1,0.9
+Bundesliga,Bor. Mönchengladbach,Borussia Moenchengladbach,bor_monchengladbach,0.753
+Bundesliga,Bayern Munich,Bayern Munich,bayern_munchen1,1
+Bundesliga,Bayer Leverkusen,Bayer Leverkusen,bayer_leverkusen_1,1
+Bundesliga,Borussia Dortmund,Borussia Dortmund,bor_dortmund,1
+Bundesliga,RB Leipzig,RB Leipzig,rasenballsport_leipzig,1
+Bundesliga,VfB Stuttgart,VfB Stuttgart,vfb_stuttgart1,1
+Bundesliga,VfL Wolfsburg,Wolfsburg,wolfsburg1,0.9
+Bundesliga,FC Augsburg,Augsburg,augsburg1,0.909
+Bundesliga,1899 Hoffenheim,Hoffenheim,hoffenheim1,0.9
+2. Bundesliga,Fortuna Düsseldorf,Fortuna Duesseldorf,fort_dusseldorf,0.927
+2. Bundesliga,Preußen Münster,Preussen Muenster,preuen_mnster1,0.775
+2. Bundesliga,Hertha BSC,Hertha Berlin,hertha_berlin1,0.805
+2. Bundesliga,SV 07 Elversberg,Elversberg,elversberg1,0.9
+2. Bundesliga,SV Darmstadt 98,Darmstadt,darmstadt1,0.9
+2. Bundesliga,SpVgg Greuther Fürth,Greuther Fuerth,grfurth,0.736
+3. Liga,TSV Havelse,TSV Havelse,tsv_havelse1,1
+3. Liga,Viktoria Köln,Viktoria Koln 1904,viktoria_koln_19041,0.863
+3. Liga,1899 Hoffenheim II,Hoffenheim II,hoffenheim_ii1,0.9
+3. Liga,FC Ingolstadt 04,Ingolstadt,ingolstadt1,0.9
+3. Liga,MSV Duisburg,MSV Duisburg,duisburg1,1
+3. Liga,1. FC Schweinfurt 05,FC Schweinfurt,fc_schweinfurt1,0.9
+3. Liga,VfB Stuttgart II,VfB Stuttgart II,stuttgart_ii1,1
+3. Liga,Jahn Regensburg,Jahn Regensburg,regensburg1,1
+3. Liga,1. FC Saarbrücken,Saarbruecken,saarbrucken1,0.707
+3. Liga,Alemannia Aachen,Alemannia Aachen,alemannia_aachen_1,1
+3. Liga,SSV Ulm 1846,Ulm,ulm1,0.9
+3. Liga,SC Verl,SC Verl,sc_verl1,1
+3. Liga,SV Wehen Wiesbaden,Wehen Wiesbaden,wehen1,0.9
+3. Liga,Waldhof Mannheim,Waldhof Mannheim,mannheim1,1
+3. Liga,Erzgebirge Aue,Erzgebirge Aue,aue1,1
+3. Liga,VfL Osnabrück,Osnabrueck,osnabruck1,0.805
+3. Liga,Energie Cottbus,Energie Cottbus,cottbus1,1
+3. Liga,Hansa Rostock,Hansa Rostock,hansa_rostock1,1
+3. Liga,Rot-Weiss Essen,RW Essen,essen1,0.717
+3. Liga,1860 Munich,1860 Munich,1860_munchen1,1
+Ligue 1,Stade Brestois 29,Brest,brest_1,0.9
+Ligue 1,RC Lens,Lens,lens1,0.9
+Ligue 1,Havre AC,Le Havre,le_havre_1,0.667
+Ligue 1,AJ Auxerre,Auxerre,auxerre1,0.9
+Ligue 1,AS Monaco,Monaco,monaco_1,0.9
+Ligue 1,FC Metz,Metz,metz_1,0.9
+Ligue 1,Toulouse FC,Toulouse,toulouse1,0.909
+Ligue 1,Paris Saint-Germain,Paris Saint-Germain,paris_sg1,1
+Ligue 1,Angers SCO,Angers,angers1,0.9
+Ligue 1,Stade Rennais,Rennes,rennes1,0.533
+Ligue 1,Racing Strasbourg,Strasbourg,strasbourg_1,0.9
+Ligue 1,Olympique de Marseille,Marseille,marseille_1,0.9
+Ligue 1,OGC Nice,Nice,nice_1,0.9
+Ligue 1,Lille OSC,Lille,lille_1,0.9
+Ligue 1,FC Lorient,Lorient,lorient1,0.9
+Ligue 1,Olympique Lyonnais,Lyon,lyon1,0.9
+Ligue 1,Paris FC,Paris FC,paris_fc_1,1
+La Liga,RCD Mallorca,Mallorca,mallorca1,0.9
+La Liga,Athletic Club,Athletic Bilbao,athlbilbao,0.83
+La Liga,Real Oviedo,Real Oviedo,oviedo1,1
+La Liga,FC Barcelona,Barcelona,barcelona_1,0.9
+La Liga,Rayo Vallecano,Rayo Vallecano,rayo_vallecano_1,1
+La Liga,Celta de Vigo,Celta Vigo,celta_vigo1,0.923
+La Liga,Real Betis,Real Betis,betis1,1
+La Liga,CA Osasuna,Osasuna,osasuna1,0.9
+La Liga,RCD Espanyol,Espanyol,espanyol_1,0.9
+La Liga,Villarreal CF,Villarreal,villarreal1,0.923
+La Liga,CD Alavés,Deportivo Alaves,alaves1,0.619
+La Liga,Getafe CF,Getafe,getafe1,0.9
+La Liga,Valencia CF,Valencia,valencia_1,0.909
+La Liga,Girona FC,Girona,girona1,0.9
+La Liga,Real Madrid,Real Madrid,real_madrid1,1
+La Liga,Levante UD,Levante,levante_1,0.9
+La Liga,Elche CF,Elche,elche1,0.9
+La Liga,Atlético Madrid,Atletico Madrid,atlmadrid,0.956
+La Liga,Sevilla FC,Sevilla,sevilla_1,0.9
+La Liga,Real Sociedad,Real Sociedad,real_sociedad_1,1
+Segunda Division,FC Andorra,FC Andorra,fc_andorra,1
+Segunda Division,CD Leganés,Leganes,leganes1,0.819
+Segunda Division,Córdoba CF,Cordoba,cordoba1,0.736
+Segunda Division,CD Mirandés,CD Mirandes,mirandes1,0.939
+Segunda Division,SD Huesca,SD Huesca,huesca1,1
+Segunda Division,CD Castellón,Castellon,castellon1,0.852
+Segunda Division,Real Sociedad B,Real Sociedad B,real_sociedad_b,1
+Segunda Division,AD Ceuta FC,AD Ceuta FC,ca_ceuta,1
+Segunda Division,Cultural Leonesa,Cultural Leonesa,leonesa1,1
+Segunda Division,Racing Santander,Racing Santander,santander1,1
+Segunda Division,UD Almería,Almeria,almeria1,0.819
+Segunda Division,Granada CF,Granada,granada1,0.9
+Segunda Division,UD Las Palmas,Las Palmas,las_palmas_1,0.9
+Segunda Division,SD Eibar,Eibar,eibar_1,0.9
+Segunda Division,Cádiz CF,Cadiz,cadiz1,0.767
+Segunda Division,Albacete,Albacete,albacete1,1
+Segunda Division,Málaga CF,Malaga,malaga_1,0.663
+Segunda Division,Real Valladolid,Real Valladolid,valladolid1,1
+Segunda Division,Burgos CF,Burgos CF,burgos1,1
+Serie A,Hellas Verona,Hellas Verona,verona1,1
+Serie A,ACF Fiorentina,Fiorentina,fiorentina_1,0.905
+Serie A,US Cremonese,Cremonese,cremonese1,0.917
+Serie A,Parma Calcio 1913,Parma Calcio 1913,ssd_parma,1
+Serie A,AC Milan,AC Milan,ac_milan_1,1
+Serie A,SSC Napoli,SSC Napoli,ssc_napoli1,1
+Serie A,Como 1907,Como,como_1,0.9
+Serie A,Genoa CFC,Genoa,genoa1,0.9
+Serie A,Pisa SC,Pisa,pisa1,0.9
+Serie A,AS Roma,Roma,roma1,0.9
+Serie A,Atalanta,Atalanta,atalanta1,1
+Serie A,Bologna FC,Bologna,bologna1,0.9
+Serie B,Modena FC,Modena,modena1,0.9
+Serie B,US Catanzaro,Catanzaro,catanzaro1,0.917
+Serie B,Juve Stabia,Juve Stabia,juve_stabia1,1
+Serie B,US Avellino,Avellino,avellino1,0.909
+Eredivisie,AFC Ajax,Ajax,ajax1,0.9
+Eredivisie,SBV Excelsior,Excelsior,excelsior1,0.9
+Eredivisie,FC Groningen,FC Groningen,groningen1,1
+Eredivisie,Feyenoord,Feyenoord,feyenoord1,1
+Eredivisie,Fortuna Sittard,Fortuna Sittard,fortsittard,1
+Eredivisie,Go Ahead Eagles,Go Ahead Eagles,go_ahead_eagles1,1
+Eredivisie,NAC Breda,NAC Breda,nac_breda1,1
+Eredivisie,Telstar,Telstar,stormvogelstelstar1,1
+Eredivisie,FC Twente,FC Twente,twente1,1
+Eredivisie,FC Utrecht,FC Utrecht,utrecht1,1
+Eredivisie,FC Volendam,FC Volendam,volendam1,1
+Eredivisie,N.E.C.,NEC Nijmegen,nec_nijmegen1,0.583
+Eredivisie,AZ Alkmaar,AZ Alkmaar,az_alkmaar1,1
+Eredivisie,PEC Zwolle,PEC Zwolle,pec_zwolle,1
+Eredivisie,PSV Eindhoven,PSV Eindhoven,psv_eindhoven1,1
+Eredivisie,Sc Heerenveen,SC Heerenveen,heerenveen1,1
+Eredivisie,Heracles Almelo,Heracles,heracles1,0.9
+Eredivisie,Sparta Rotterdam,Sparta Rotterdam,sparta1,1
+Primeira Liga,AVS,AVS,avs,1
+Primeira Liga,FC Alverca,Alverca,alverca1,0.9
+Primeira Liga,Vitória Guimarães,Vitoria de Guimaraes,guimaraes1,0.8
+Primeira Liga,Gil Vicente,Gil Vicente,gil_vicente1,1
+Primeira Liga,CD Tondela,Tondela,tondela,0.9
+Primeira Liga,Estrela Amadora,Estrela da Amadora,sintra_football,0.878
+Primeira Liga,Rio Ave FC,Rio Ave,rio_ave1,0.9
+Primeira Liga,CD Santa Clara,Santa Clara,santa_clara1,0.9
+Primeira Liga,SL Benfica,Benfica,benfica_1,0.9
+Primeira Liga,FC Porto,FC Porto,fc_porto1,1
+Primeira Liga,GD Estoril,Estoril,estoril1,0.9
+Primeira Liga,Casa Pia AC,Casa Pia AC,casa_pia,1
+Primeira Liga,FC Arouca,Arouca,arouca,0.9
+Primeira Liga,Moreirense FC,Moreirense,moreirense1,0.923
+Primeira Liga,FC Famalicão,Famalicao,famalicao1,0.727
+Primeira Liga,Sporting CP,Sporting CP,sporting_cp_1,1
+Primeira Liga,CD Nacional,Nacional,nacional1_football_2,0.9
+Primeira Liga,S.C. Braga,Braga,braga1,0.9
+Austrian Bundesliga,SCR Altach,Altach,altach1,0.9
+Austrian Bundesliga,Wolfsberger AC,Wolfsberger AC,kresta_st_andra,1
+Austrian Bundesliga,FC Blau Weiß Linz,Austria Wien,austria_wien1,0.587
+Austrian Bundesliga,SV Ried,Ried,ried1,0.9
+Austrian Bundesliga,WSG Tirol,WSG Tirol,wattens1,1
+Austrian Bundesliga,Grazer AK,Grazer AK,grazer_ak1,1
+Austrian 2. Liga,FC Admira Wacker,Admira Moedling,admmodling1,0.532
+Austrian 2. Liga,SK Austria Klagenfurt,SK Austria Klagenfurt,sk_austria_krnten1,1
+Austrian 2. Liga,SKN St. Pölten,SKN St. Poelten,st_polten,0.893
+Austrian 2. Liga,First Vienna FC,First Vienna FC,vienna_fc1,1
+Austrian 2. Liga,Austria Wien (A),Austria Wien II,austria_wien_a1,0.893
+Austrian 2. Liga,Austria Lustenau,Austria Lustenau,austria_lustenau1,1
+Austrian 2. Liga,Sturm Graz (A),Sturm Graz II,sturm_graz_a1,0.877
+Austrian 2. Liga,SV Stripfing/Weiden,SV Stripfing,sv_stripfing,0.9
+Austrian 2. Liga,Floridsdorfer AC,Floridsdorfer AC,fac_team_fr_wien1,1
+Austrian 2. Liga,FC Liefering,FC Liefering,usk_anif1,1
+Austrian 2. Liga,FC Hertha Wels,WSPG Wels,wspg_wels,0.571
+Austrian 2. Liga,Schwarz-Weiß Bregenz,SW Bregenz,sc_bregenz1,0.578
+Austrian 2. Liga,Kapfenberger SV 1919,Kapfenberger SV,kapfenberg1,0.917
+Austrian 2. Liga,SKU Amstetten,Amstetten,amstetten1,0.9
+Austrian 2. Liga,Rapid Wien (A),Rapid Wien II,rapid_wien_a1,0.877
+Austrian 2. Liga,Austria Salzburg,SV Austria Salzburg,sv_austria_salzburg,0.9
+Belgian Pro League,KAA Gent,Gent,gent1,0.9
+Belgian Pro League,Union Saint-Gilloise,Union St.Gilloise,union_stgilloise,0.851
+Belgian Pro League,Sint-Truidense VV,St.Truiden,sttruiden,0.662
+Belgian Pro League,RSC Anderlecht,Anderlecht,anderlecht_1,0.9
+Belgian Pro League,KV Mechelen,KV Mechelen,mechelen1,1
+Scottish Premiership,Celtic FC,Celtic,celtic1,0.9
+Scottish Premiership,Rangers FC,Rangers,rangers,0.9
+Scottish Premiership,Heart of Midlothian,Hearts,hearts1,0.699
+Scottish Premiership,Motherwell FC,Motherwell,motherwell1,0.923
+Scottish Premiership,Falkirk FC,Falkirk,falkirk1,0.9
+Scottish Premiership,Hibernian FC,Hibernian,hibernian1,0.917
+Danish Superliga,FC Nordsjælland,FC Nordsjaelland,fc_nordsjlland1,0.912
+Danish Superliga,Brøndby IF,Broendby IF,brndby_if1,0.906
+Danish Superliga,FC Midtjylland,FC Midtjylland,fc_midtjylland1,1
+Danish Superliga,Aarhus GF,Randers FC,agf_1,0.619
+Danish 1st Division,Kolding IF,Kolding IF,kolding_if1,1
+Danish 1st Division,Hillerød Fodbold,Hilleroed,hillerd1,0.755
+Danish 1st Division,AC Horsens,AC Horsens,ac_horsens1,1
+Danish 1st Division,Lyngby BK,Lyngby,lyngby1,0.9
+Danish 1st Division,Esbjerg fB,Esbjerg fB,esbjerg_fb1,1
+Danish 1st Division,Hvidovre IF,Hvidovre,hvidovre1,0.909
+Swiss Super League,FC Lugano,Lugano,lugano_1,0.9
+Swiss Super League,FC Sion,Sion,sion_1,0.9
+Swiss Super League,BSC Young Boys,Young Boys,young_boys1,0.9
+Swiss Super League,FC Basel 1893,Basel,basel_1,0.9
+Swiss Super League,FC Thun Berner Oberland,Thun,thun1,0.9
+Swiss Super League,FC St. Gallen,St. Gallen,stgallen,0.9
+Swiss Challenge League,AC Bellinzona,Bellinzona,bellinzona1,0.923
+Swiss Challenge League,Neuchâtel Xamax FCS,Xamax,xamax1,0.9
+Swiss Challenge League,FC Stade Nyonnais,Stade Nyonnais,stade_nyonnais1,0.9
+Swiss Challenge League,FC Vaduz,FC Vaduz,fc_vaduz1,1
+Swiss Challenge League,Yverdon Sport FC,Yverdon,yverdon_1,0.9
+Swiss Challenge League,FC Aarau,Aarau,aarau1,0.9
+Swiss Challenge League,Etoile Carouge FC,Etoile Carouge,etoile_carouge1,0.941
+Swiss Challenge League,FC Rapperswil-Jona,FC Rapperswil-Jona,rapperswil,1
+Swiss Challenge League,Stade Lausanne-Ouchy,FC Stade Lausanne-Ouchy,fc_stade_lausanneouchy,0.907
+Swiss Challenge League,FC Wil 1900,Wil,wil1,0.9
+Saudi Pro League,Al Riyadh,Al Riyadh,al_riyadh_1,1
+Saudi Pro League,Al Ittihad,Al Ittihad,al_ittihad,1
+Saudi Pro League,NEOM SC,NEOM SC,neom_sc,1
+Saudi Pro League,Al Taawoun,Al-Taawoun,altaawon,0.933
+Saudi Pro League,Al Kholood,Al Kholood,al_kholood,1
+Saudi Pro League,Al Nassr,Al Nassr FC,al_nasr,0.909
+Saudi Pro League,Al Fateh,Al Fateh FC,al_fath,0.909
+Saudi Pro League,Al Qadsiah,Al Quadisiya,al_quadisiya,0.846
+Saudi Pro League,Al Ettifaq,Al-Ettifaq,al_ittifaq1,0.933
+Saudi Pro League,Damac FC,Damac FC,damac_fc,1
+Saudi Pro League,Al Okhdood,Al Akhdoud,al_akhdoud,0.783
+Saudi Pro League,Al Hilal,Al Hilal,al_hilal1,1
+Saudi Pro League,Al Ahli SFC,Al Ahli,al_ahli,0.9
+Saudi Pro League,Al Shabab,Al Shabab,al_shabab1,1
+Saudi Pro League,Al Najma,Al Najma,al_najma,1
+Saudi Pro League,Al Hazem,Al Hazem,al_hazm1,1
+Saudi Pro League,Al Fayha,Al Feiha,al_feiha,0.778
+Saudi Pro League,Al Khaleej,Al Khaleej,al_khaleej,1
+Eliteserien,Rosenborg BK,Rosenborg,rosenborg1,0.917
+Eliteserien,KFUM Oslo,KFUM,kfum,0.9
+Eliteserien,Sandefjord Fotball,Sandefjord,sandefjord1,0.9
+Eliteserien,Tromsø IL,Tromsoe,tromsoe_1,0.757
+Eliteserien,SK Brann,Brann,brann1,0.9
+Eliteserien,Fredrikstad FK,Fredrikstad,fredrikstad1,0.929
+Eliteserien,Lillestrøm SK,Lillestroem,lillestrm1,0.837
+Eliteserien,Molde FK,Molde,molde_1,0.9
+Eliteserien,Viking FK,Viking,viking_1,0.9
+Eliteserien,FK Bodø/Glimt,Bodoe/Glimt,bodglimt1,0.837
+Eliteserien,Vålerenga IF,Vaalerenga,vlerenga1,0.822
+Eliteserien,Kristiansund BK,Kristiansund BK,kristiansund_bk1,1
+Eliteserien,Hamarkameratene,Hamarkameratene,hamarkameratene1,1
+Eliteserien,Aalesunds FK,Aalesund,aalesund1,0.9
+Eliteserien,IK Start,Start,start1,0.9
+Eliteserien,Sarpsborg 08,Sarpsborg 08,sarpsborg_sparta_fk1,1
+1. Divisjon,Åsane Fotball,Aasane,sane1,0.575
+1. Divisjon,Moss FK,Moss,moss_1,0.9
+1. Divisjon,Raufoss IL,Raufoss,raufoss1,0.9
+1. Divisjon,Sandnes Ulf,Sandnes,sandnes1,0.9
+1. Divisjon,Sogndal IL,Sogndal,sogndal1,0.9
+1. Divisjon,Strømmen IF,Stroemmen,strommen1,0.757
+1. Divisjon,Egersunds IK,Egersund,egersund1,0.9
+1. Divisjon,Bryne FK,Bryne,bryne1,0.9
+1. Divisjon,FK Haugesund,FK Haugesund,haugesund1,1
+1. Divisjon,IL Hødd,Hoedd,hdd1,0.562
+1. Divisjon,Lyn Oslo,Lyn,lyn1,0.9
+1. Divisjon,Odds BK,Odds Ballklubb,odd_grenland1,0.833
+1. Divisjon,Stabæk IF,Stabaek,stabk1,0.757
+1. Divisjon,Strømsgodset IF,Stroemsgodset,strmsgodset1,0.754
+1. Divisjon,Kongsvinger IL,Kongsvinger,kongsvinger1,0.929
+1. Divisjon,Ranheim IL,Ranheim,ranheim1,0.9
+Irish Premier Division,Bohemian FC,Bohemian FC,bohemians,1
+Irish Premier Division,St Patrick's Athletic,St. Patrick's Athletic,stpatricks,0.985
+Irish Premier Division,Waterford FC,Waterford FC,waterford_u,1
+Irish Premier Division,Dundalk FC,Dundalk,dundalk1,0.9
+Irish Premier Division,Sligo Rovers,Sligo Rovers,sligo_rovers1,1
+Irish Premier Division,Drogheda United,Drogheda United,drogheda1,1
+Irish Premier Division,Shelbourne FC,Shelbourne,shelbourne1,0.923
+Irish Premier Division,Derry City,Derry City,derry1,1
+Irish Premier Division,Shamrock Rovers,Shamrock Rovers,shamrock1,1
+Irish Premier Division,Galway United,Galway United FC,galway_fc,0.938
+Irish First Division,Cobh Ramblers,Cobh Ramblers,cobh_ramblers1,1
+Irish First Division,Kerry FC,Kerry FC,kerry,1
+Irish First Division,Treaty United,Treaty United,treaty_united,1
+Irish First Division,UC Dublin,UCD,uc_dublin_fc1,0.778
+Irish First Division,Longford Town,Longford Town,longford1,1
+Irish First Division,Athlone Town,Athlone Town,athlone1,1
+Irish First Division,Wexford FC,Wexford FC,wexford_youths1,1
+Irish First Division,Finn Harps,Finn Harps,finn_harps1,1
+Irish First Division,Bray Wanderers,Bray Wanderers,bray_wanderers1,1
+Irish First Division,Cork City,Cork City,cork_city1,1
+Allsvenskan,AIK,AIK,aik_1,1
+Allsvenskan,Kalmar FF,Kalmar FF,kalmar_ff1,1
+Allsvenskan,BK Häcken,Haecken,hacken1,0.657
+Allsvenskan,IK Sirius,Sirius,sirius1,0.9
+Allsvenskan,GAIS Göteborg,GAIS,gais1,0.9
+Allsvenskan,Halmstads BK,Halmstads BK,halmstad1,1
+Allsvenskan,Djurgårdens IF,Djurgaarden,djurgaarden1,0.82
+Allsvenskan,Malmö FF,Malmoe FF,malmo_ff1,0.884
+Allsvenskan,Örgryte IS,Oergryte FF,orgryte1,0.779
+Allsvenskan,Degerfors IF,Degerfors,degerfors1,0.917
+Allsvenskan,IF Elfsborg,Elfsborg,elfsborg1,0.9
+Greek Super League,AEK Athen,AEK Athens,aek_athens1,0.967
+Greek Super League,Olympiacos FC,Olympiacos,olympiakos1,0.923
+Greek Super League,PAOK Saloniki,PAOK Thessaloniki FC,paok_saloniki1,0.883
+Greek Super League,Panathinaikos A.O.,Panathinaikos,panathinaikos1,0.907
